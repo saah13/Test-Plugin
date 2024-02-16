@@ -5,5 +5,5 @@ requirements: []
 configuration:
   properties:
    ift_threshold:
-    type: number 
+    type: string
   additionalProperties: false
