@@ -1,0 +1,9 @@
+name: Test Gate
+description: Annotate 
+author: 
+requirements: []
+configuration:
+  properties:
+   ift_threshold:
+    type: number 
+  additionalProperties: false
